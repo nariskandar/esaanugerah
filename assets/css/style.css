@@ -1860,7 +1860,7 @@ li.active button {
   background:#F5F5F5;
   color:#000;
 }
-table { border-collapse:collapse; table-layout:fixed; width:100%; }
+table { border-collapse:collapse; table-layout:fixed; width:100%;   }
 th { background:#F5F5F5; display:none; }
 td, th {
   height:53px
@@ -1880,7 +1880,7 @@ td.default {
   border-top:3px solid #A32362;
 }
 .bg-blue {
-  border-top:3px solid #0097CF;
+  border-top:8px solid #0097CF;
 }
 .sep {
   background:#F5F5F5;
@@ -1888,7 +1888,7 @@ td.default {
 }
 .txt-l { font-size:28px; font-weight:bold; }
 .txt-top { position:relative; top:-9px; left:-2px; }
-.tick { font-size:18px; color:#2CA01C; }
+.tick { font-size:16px; color:#2CA01C; }
 .hide {
   border:0;
   background:none;
