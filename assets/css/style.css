@@ -1828,7 +1828,7 @@ article {
   width:100%;
   max-width:1000px;
   margin:0 auto;
-  height:1000px;
+  height:auto;
   position:relative;
 }
 ul {
@@ -1909,3 +1909,8 @@ td.default {
     width: auto;
   }
 }
+
+
+
+/* dsa */
+
